@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Plugin-Version: 1.0.4
+Plugin-Class: com.morpheusdata.tab.TabPlugin
+
